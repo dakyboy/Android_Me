@@ -33,7 +33,12 @@
         <!--The container should be 180dp in height -->
 
 
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:id="@+id/frag_head_container">
 
+        </FrameLayout>
     </LinearLayout>
 
 </ScrollView>
